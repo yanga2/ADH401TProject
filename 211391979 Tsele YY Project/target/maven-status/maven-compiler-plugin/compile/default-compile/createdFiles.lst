@@ -1,0 +1,6 @@
+org\tweet\rest\RestApplication.class
+org\tweet\servlet\SimpleServlet.class
+org\tweet\rest\TweetRestAPI.class
+org\tweet\service\TweetServiceImpl.class
+org\tweet\service\TweetService.class
+org\tweet\entity\Tweet.class
