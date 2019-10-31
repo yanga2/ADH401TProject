@@ -1,0 +1,6 @@
+<persistence-Unit name="Mola">
+<jta-data-source>Java:/ADH401TTDS</jta-data-source>
+<property name"hibernate.dialect value=org.hibernate.dialect.MySQLDialect"></property 
+</persistence-Unit>
+
+<!--Couldnt find your persistent file created my own-->
